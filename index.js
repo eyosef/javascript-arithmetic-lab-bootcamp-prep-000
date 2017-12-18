@@ -50,7 +50,7 @@ function makeInt(n)
 //answer 8
 function preserveDecimal(n)
 {
-  {return(parseFloat('2.222n'))}
+  {return(parseFloat('2.222'))}
 }
 
 
