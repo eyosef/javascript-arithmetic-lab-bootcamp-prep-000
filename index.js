@@ -43,7 +43,6 @@ function dec(n)
 //answer 7 (test passed)
 function makeInt(n)
 {
-  if (n === n)
   {return(parseInt(n, 10))}
   
 }
